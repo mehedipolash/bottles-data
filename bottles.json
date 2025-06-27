@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "brand": "Aquafina",
+    "capacity": 500,
+    "material": "Plastic",
+    "price": 25,
+    "isReusable": false,
+    "weight": 20,
+    "lifespan": 1,
+    "isForHotAndCold": false,
+    "img": "https://i.imgur.com/3z6mQjP.png"
+  },
+  {
+    "id": 2,
+    "brand": "ThermoFlask",
+    "capacity": 1000,
+    "material": "Stainless Steel",
+    "price": 1200,
+    "isReusable": true,
+    "weight": 450,
+    "lifespan": 60,
+    "isForHotAndCold": true,
+    "img": "https://i.imgur.com/jMb0TaB.png"
+  },
+  {
+    "id": 3,
+    "brand": "Milton",
+    "capacity": 750,
+    "material": "Plastic",
+    "price": 350,
+    "isReusable": true,
+    "weight": 180,
+    "lifespan": 24,
+    "isForHotAndCold": false,
+    "img": "https://i.imgur.com/VzGfV0G.png"
+  },
+  {
+    "id": 4,
+    "brand": "Tupperware",
+    "capacity": 1000,
+    "material": "Plastic",
+    "price": 500,
+    "isReusable": true,
+    "weight": 200,
+    "lifespan": 36,
+    "isForHotAndCold": false,
+    "img": "https://i.imgur.com/lMMeX3Y.png"
+  },
+  {
+    "id": 5,
+    "brand": "Hydro Flask",
+    "capacity": 946,
+    "material": "Stainless Steel",
+    "price": 2500,
+    "isReusable": true,
+    "weight": 500,
+    "lifespan": 72,
+    "isForHotAndCold": true,
+    "img": "https://i.imgur.com/dg6D7f5.png"
+  }
+]
